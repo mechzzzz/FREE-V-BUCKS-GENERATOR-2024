@@ -1,0 +1,3 @@
+- Download the raw file
+- Open your folder containing the file
+- Right click the file and click "view" / "open with", then choose your word processor program
